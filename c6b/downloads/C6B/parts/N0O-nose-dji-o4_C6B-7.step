@@ -1,7 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('SkyG Speed 90B - revision C6B-7 - 2026-10-08','N0O-nose-dji-o4'),'2;1');
-FILE_NAME('N0O-nose-dji-o4_C6B-7','2026-10-08T18:09:15',('Author'),(
+FILE_NAME('N0O-nose-dji-o4_C6B-7','2026-10-08T20:38:01',('Author'),(
     'Open CASCADE'),'Open CASCADE STEP processor 7.9','Open CASCADE 7.9'
   ,'Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));
